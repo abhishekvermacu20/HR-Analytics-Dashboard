@@ -29,3 +29,5 @@ Added a "HR Analytics Dashboard" title and a Month slicer with informative KPIs.
 Analyzed employee data using Power Query and DAX in Power BI, and created an interactive dashboard to track employee turnover and attrition reasons. Discovered a significant number of salespeople leaving due to low salaries and stagnant hike rates. Provided visualizations and actionable insights to the HR team to address these issues and improve employee retention.
 
 Check out the project to see how data-driven insights can transform HR strategies! #DataAnalytics #PowerBI #HRAnalytics #DAX #DataVisualization #BusinessIntelligence
+
+Dahboard : https://app.mavenanalytics.io/portfolio/new
