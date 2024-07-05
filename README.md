@@ -30,4 +30,4 @@ Analyzed employee data using Power Query and DAX in Power BI, and created an int
 
 Check out the project to see how data-driven insights can transform HR strategies! #DataAnalytics #PowerBI #HRAnalytics #DAX #DataVisualization #BusinessIntelligence
 
-Dahboard : https://app.mavenanalytics.io/portfolio/new
+Dashboard : https://app.mavenanalytics.io/portfolio/new
